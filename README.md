@@ -1,6 +1,6 @@
 # Pink Note Bug Fix
 
-This mod for UNBEATABLE attempts to fix the "pink note bugs" in the game. Due to this changing how the game works, saving and submitting of scores will be disabled when this mod is installed.
+This mod for UNBEATABLE attempts to fix the "pink note bugs" in the game. Due to this changing how the game works, saving and submitting of scores will be disabled when this mod is installed, so this is really just to practice for when it gets finally patched for real.
 
 ## Compatible game versions
 
